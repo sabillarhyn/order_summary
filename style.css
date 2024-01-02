@@ -9,7 +9,7 @@ body{
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top;
-    background-size: 1270px 370px;
+    background-size: 100% 370px;
     background-color: hsl(225, 100%, 94%);
     max-width: 1440px;
     min-width: 375px;
